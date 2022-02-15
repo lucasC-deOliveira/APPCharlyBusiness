@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/rounded_corner.xml" value="0.27890625" />
+        <entry key="app/src/main/res/drawable-v24/rounded_cornerIMG.xml" value="0.27890625" />
+        <entry key="app/src/main/res/drawable/borda.xml" value="0.27890625" />
+        <entry key="app/src/main/res/drawable/divider.xml" value="0.27890625" />
+        <entry key="app/src/main/res/layout/activity_charly_imoveis.xml" value="0.20594262295081966" />
+        <entry key="app/src/main/res/layout/activity_editando_produtos_unactivity.xml" value="0.266796875" />
+        <entry key="app/src/main/res/layout/activity_editar_produto_universo_natural.xml" value="0.266796875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27309782608695654" />
+        <entry key="app/src/main/res/layout/activity_pesquisar_produtos.xml" value="0.258879781420765" />
+        <entry key="app/src/main/res/layout/activity_pesquisar_produtos_naturais.xml" value="0.25136612021857924" />
+        <entry key="app/src/main/res/layout/activity_universo_cadastrar_produtos.xml" value="0.20594262295081966" />
+        <entry key="app/src/main/res/layout/activity_universo_natural.xml" value="0.20594262295081966" />
+        <entry key="app/src/main/res/layout/activity_universo_natural_listar_produtos.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/adpter_item_lista.xml" value="0.20594262295081966" />
+        <entry key="app/src/main/res/layout/adpter_item_lista_produtos.xml" value="0.266796875" />
+        <entry key="app/src/main/res/layout/adpter_item_lista_produtos_melhorado.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/adpter_item_lista_produtos_melhorado2.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/content_pesquisar_produtos.xml" value="0.25136612021857924" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

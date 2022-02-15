@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554468958422",
+    "project_id": "negocios-3b44f",
+    "storage_bucket": "negocios-3b44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554468958422:android:c76491df0b024d23b2a977",
+        "android_client_info": {
+          "package_name": "com.example.charlynegocios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554468958422-6mhmfup85t76bos5esn1uh41lacep8u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfbte4SHpeqtUooq9I1XznMkHo6fGYiHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554468958422-6mhmfup85t76bos5esn1uh41lacep8u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
